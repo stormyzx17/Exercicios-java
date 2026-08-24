@@ -28,5 +28,7 @@ public class Main {
         );
         pix.processar();
         pix.exibirRecibo();
+
+        pix.exibirRecibo();
     }
 }
